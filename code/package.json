@@ -2,6 +2,7 @@
   "name": "code",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://sakuragi89.github.io"
   "dependencies": {
     "autoprefixer": "7.1.6",
     "axios": "^0.18.0",
